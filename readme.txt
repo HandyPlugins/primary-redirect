@@ -1,4 +1,4 @@
-=== Multisite Tos ===
+=== Primary Redirect ===
 Contributors: m_uysl,LettoBlog
 Tags: multisite,login,redirect,redirection,primary,primary redirect,wpmudev
 Requires at least: 3.1
