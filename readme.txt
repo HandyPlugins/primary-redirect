@@ -10,7 +10,7 @@ Redirects users to their primary blog's dashboard or special page.
 
 == Description ==
 Redirects users to special url or their primary blog's dashboard after they've logged in  replacing the default 'go to dashboard' behavior.
-It’s inspired by the WPMU DEV login redirect plugin.
+It's inspired by the WPMU DEV login redirect plugin.
 
 = Translations =
 
