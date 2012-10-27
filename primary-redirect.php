@@ -12,7 +12,6 @@ License: GPLv2 (or later)
 Network: true
 */
 
-
 class Primary_Redirect {
 
 
