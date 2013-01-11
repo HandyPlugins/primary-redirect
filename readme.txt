@@ -2,7 +2,7 @@
 Contributors: m_uysl,LettoBlog
 Tags: multisite,login,redirect,redirection,primary,primary redirect,wpmudev
 Requires at least: 3.1
-Tested up to: 3.4.2
+Tested up to: 3.5.1
 Stable tag: 1.0
 License: GPLv2 (or later)
 
