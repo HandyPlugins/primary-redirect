@@ -14,8 +14,9 @@ It's inspired by the WPMU DEV login redirect plugin.
 
 = Translations =
 
-* English (en\_US), built-in
-* Turkish (tr\_TR), native support
+* English (en_US), built-in
+* Turkish (tr_TR), native support
+* Serbo-Croatian (sr_RS) by [Borisa Djuraskovic](http://www.webhostinghub.com "Borisa Djuraskovic")
 
 == Installation ==
 
@@ -32,6 +33,9 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 2. screenshot-2.png
 
 == Changelog ==
+
+= 1.1 = 
+- Serbo-Croatian language pack added. Thanks [Borisa Djuraskovic](http://www.webhostinghub.com "Borisa Djuraskovic")
 
 = 1.0 =
 
