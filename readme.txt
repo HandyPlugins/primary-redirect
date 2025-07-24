@@ -2,9 +2,9 @@
 Contributors: handyplugins, m_uysl
 Tags: multisite, login, redirect, redirection, primary
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 2.0
+Stable tag: 2.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -72,6 +72,9 @@ The plugin uses WordPress's standard `login_redirect` filter, so it should be co
 2. Single site settings in General options
 
 == Changelog ==
+
+= 2.0 (Jul 24, 2025) =
+* Bump tested up to WordPress 6.8
 
 = 2.0 (Jul 24, 2025) =
 * Complete rewrite with modern WordPress best practices
