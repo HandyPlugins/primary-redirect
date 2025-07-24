@@ -1,44 +1,10 @@
-# Primary Redirect #
+# [Primary Redirect](https://wordpress.org/plugins/primary-redirect/) #
 
-Contributors: m_uysl,LettoBlog		
-Tags: multisite,login,redirect,redirection,primary,primary redirect,wpmudev 		
-Requires at least: 3.1  		
-Tested up to: 3.5.		 
-Stable tag: 1.0  		
-License: GPLv2 (or later		 
+![Support Level](https://img.shields.io/badge/support-active-green.svg) [![Release Version](https://img.shields.io/wordpress/plugin/v/primary-redirect?label=Release%20Version)](https://github.com/handyplugins/primary-redirect/releases) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/primary-redirect?label=WordPress) ![Required PHP Version](https://img.shields.io/wordpress/plugin/required-php/primary-redirect?label=PHP)
 
-Redirects users to their primary blog's dashboard or special page.
+### Welcome to our GitHub Repository
 
-## Description ##
-Redirects users to special url or their primary blog's dashboard after they've logged in  replacing the default 'go to dashboard' behavior.
-It's inspired by the WPMU DEV login redirect plugin.
+Redirects users to a custom URL or their primary blog's dashboard after login, replacing the default WordPress behavior.
 
-### Translations ###
-
-* English (en_US), built-in
-* Turkish (tr_TR), native support
-* Serbo-Croatian (sr_RS) by [Borisa Djuraskovic](http://www.webhostinghub.com "Borisa Djuraskovic")
-
-## Installation ##
-
-Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Network admin's Plugins page.
-
-## Frequently Asked Questions ##
-
-*   Is it compatible with single site?
-	- Yes.	
-*   Is it support special url redirection?
-	- Yes. If you're using multisite you can choose primary redirection or enter special url.
-	
-## Screenshots ##
-1. screenshot-1.png
-2. screenshot-2.png
-
-## Changelog ##
-
-#### 1.1 ####
-- Serbo-Croatian language pack added. Thanks [Borisa Djuraskovic](http://www.webhostinghub.com "Borisa Djuraskovic")
-
-### 1.0 ###
-
-Initial release.
+## Support ##
+This is a developer's portal for Primary Redirect and should _not_ be used for support. Please visit the [support forums](https://wordpress.org/support/plugin/primary-redirect/) if you need to submit a support request.
