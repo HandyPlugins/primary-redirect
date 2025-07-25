@@ -3,7 +3,7 @@
  * Plugin Name: Primary Redirect
  * Plugin URI: https://handyplugins.co
  * Description: Redirects users to a custom URL or their primary blog's dashboard after login, replacing the default WordPress behavior.
- * Version: 2.0.1
+ * Version: 2.0.2
  * Requires at least: 5.0
  * Requires PHP: 7.4
  * Author: HandyPlugins
@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Define plugin constants.
-define( 'PRIMARY_REDIRECT_VERSION', '2.0.1' );
+define( 'PRIMARY_REDIRECT_VERSION', '2.0.2' );
 define( 'PRIMARY_REDIRECT_PLUGIN_FILE', __FILE__ );
 define( 'PRIMARY_REDIRECT_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'PRIMARY_REDIRECT_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
