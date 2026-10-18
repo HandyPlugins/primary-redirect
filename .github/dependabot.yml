@@ -1,0 +1,16 @@
+# Shared Dependabot config for HandyPlugins repositories.
+# Security fixes are grouped into one PR per ecosystem and arrive as soon as they are available.
+# Routine version updates are grouped into one PR per ecosystem once a month.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      timezone: "America/New_York"
+    labels: ["dependencies"]
+    commit-message:
+      prefix: "chore(ci)"
+    groups:
+      actions-all:
+        patterns: ["*"]
